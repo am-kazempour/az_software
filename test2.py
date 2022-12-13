@@ -1,0 +1,1 @@
+print('print in file 2')
